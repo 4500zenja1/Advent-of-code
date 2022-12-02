@@ -1,7 +1,6 @@
 with open('input.txt') as file:
   lines = [line.rstrip() for line in file.readlines()]
 
-# Part 1
 points = {'X': 1, 'Y': 2, 'Z': 3}
 win = {'C': 'X', 'A': 'Y', 'B': 'Z'}
 draw = {'A': 'X', 'B': 'Y', 'C': 'Z'}
