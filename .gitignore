@@ -1,6 +1,8 @@
-**/venv/*
-.breakpoints
+*.nix
+*.toml
+*.lock
 .replit
-replit.nix
-poetry.lock
-pyproject.toml
+.breakpoints
+venv/
+*.py
+*.txt
