@@ -1,0 +1,8 @@
+*.nix
+*.toml
+*.lock
+.replit
+.breakpoints
+venv/
+*.py
+*.txt
