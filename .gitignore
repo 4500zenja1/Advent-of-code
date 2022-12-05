@@ -6,4 +6,3 @@
 venv/
 *.py
 *.txt
-!solutions/*/*.[py|txt]
