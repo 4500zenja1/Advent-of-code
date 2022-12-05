@@ -4,5 +4,3 @@
 .replit
 .breakpoints
 venv/
-*.py
-*.txt
