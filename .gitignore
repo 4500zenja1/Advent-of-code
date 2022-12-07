@@ -6,5 +6,5 @@
 venv/
 *.py
 *.txt
-!solutions/*/*.py
-!solutions/*/*.txt
+!2022/*/*.py
+!2022/*/*.txt
