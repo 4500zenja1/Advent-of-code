@@ -1,0 +1,10 @@
+*.nix
+*.toml
+*.lock
+.replit
+.breakpoints
+venv/
+*.py
+*.txt
+!solutions/*/*.py
+!solutions/*/*.txt
