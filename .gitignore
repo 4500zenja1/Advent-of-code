@@ -1,0 +1,9 @@
+*.nix
+*.toml
+*.lock
+.replit
+.breakpoints
+venv/
+*.py
+*.txt
+!2022/*/*.py
